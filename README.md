@@ -6,7 +6,7 @@ This is strategie for generate EmberJs component for [Hopeless Entity Analyzer](
 
 ### How to use ###
 
-buildscript {
+``buildscript {
  ...
     dependencies {
         classpath("fr.hopelessworld.plugin:EntityAnalyzerPlugin:1.0")
@@ -43,3 +43,4 @@ analyzeEntity {
              
     }
 }
+``
